@@ -1,5 +1,10 @@
 # Deivid_21's Builds
 
+// Moto G7 Power (ocean)
+
+- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240814-ocean-v9.3-Unofficial)
+
+
 // Moto G9 Power (cebu)
 
 - [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240813-cebu-v9.3-Unofficial)
