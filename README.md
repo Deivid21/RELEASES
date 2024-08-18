@@ -2,12 +2,17 @@
 
 // Moto G7 (river)
 
-- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240814-river-v9.3-Unofficial)
+- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240817-river-v9.3-Vanilla-Unofficial)
+
+
+// Moto G7 Play (channel)
+
+- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240817-channel-v9.3-Vanilla-Unofficial)
 
 
 // Moto G7 Power (ocean)
 
-- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240814-ocean-v9.3-Unofficial)
+- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240817-ocean-v9.3-Vanilla-Unofficial)
 
 
 // Moto G9 Power (cebu)
