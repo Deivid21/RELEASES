@@ -23,7 +23,7 @@
 
 ## Moto G30 (caprip)
 
-- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240812-caprip-v9.3-Unofficial)
+- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240909-caprip-v9.4-Unofficial)
 
 
 ## Motorola One Fusion (astro)
