@@ -21,6 +21,11 @@
 - [LineageOS 21](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20240914-nightly-cebu-signed)
 
 
+## Moto G 5G / Motorola One 5G (kiev)
+
+- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240915-kiev-v9.4-Unofficial)
+
+
 ## Moto G30 (caprip)
 
 - [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240909-caprip-v9.4-Unofficial)
