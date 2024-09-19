@@ -12,7 +12,7 @@
 
 ## Moto G7 Power (ocean)
 
-- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240817-ocean-v9.3-Vanilla-Unofficial)
+- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240916-ocean-v9.4-Unofficial)
 
 
 ## Moto G9 Power (cebu)
