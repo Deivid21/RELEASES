@@ -7,7 +7,7 @@
 
 ## Moto G7 Play (channel)
 
-- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240817-channel-v9.3-Vanilla-Unofficial)
+- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240919-channel-v9.4-Unofficial)
 
 
 ## Moto G7 Power (ocean)
