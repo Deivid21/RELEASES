@@ -2,7 +2,7 @@
 
 ## Moto G7 (river)
 
-- [Evolution X v9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240817-river-v9.3-Vanilla-Unofficial)
+- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240918-river-v9.4-Unofficial)
 
 
 ## Moto G7 Play (channel)
