@@ -18,7 +18,7 @@
 ## Moto G9 Power (cebu)
 
 - [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240909-cebu-v9.4-Unofficial)
-- [LineageOS 21](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241005-nightly-cebu-signed)
+- [LineageOS 21](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241012-nightly-cebu-signed)
 
 
 ## Moto G 5G / Motorola One 5G (kiev)
