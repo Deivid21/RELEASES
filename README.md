@@ -17,7 +17,7 @@
 
 ## Moto G9 Power (cebu)
 
-- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240909-cebu-v9.4-Unofficial)
+- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-cebu-v9.5-Unofficial)
 - [LineageOS 21](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241012-nightly-cebu-signed)
 
 
