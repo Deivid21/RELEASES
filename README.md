@@ -17,7 +17,7 @@
 
 ## Moto G7 Power (ocean)
 
-- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240916-ocean-v9.4-Unofficial)
+- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241014-ocean-v9.5-Unofficial)
 
 
 ## Moto G9 Play (guamp)
