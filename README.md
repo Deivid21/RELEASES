@@ -46,6 +46,11 @@
 - [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-caprip-v9.5-Unofficial)
 
 
+## Motorola Edge 30 (dubai)
+
+- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-dubai-v9.5-Unofficial)
+
+
 ## Motorola One Fusion (astro)
 
 - [TeamWin Recovery Project 3.7.0_11-0](https://github.com/Deivid21/RELEASES/releases/tag/twrp-3.7.0_11-0-astro)
