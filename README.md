@@ -38,7 +38,7 @@
 
 ## Moto G 5G / Motorola One 5G (kiev)
 
-- [Evolution X v9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240915-kiev-v9.4-Unofficial)
+- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241014-kiev-v9.5-Unofficial)
 
 
 ## Moto G30 (caprip)
