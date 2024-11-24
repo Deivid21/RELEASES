@@ -3,7 +3,7 @@
 ## Moto E7 Plus (guam)
 
  Android 14
-- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-guam-v9.5-Unofficial)
+- [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-guam-v9.6-Unofficial)
 
 
 ## Moto G7 (river)
