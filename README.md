@@ -33,7 +33,7 @@
 ## Moto G9 Power (cebu)
 
  Android 14
-- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-cebu-v9.5-Unofficial)
+- [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241123-cebu-v9.6-Unofficial)
 - [LineageOS 21](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241123-nightly-cebu-signed)
 
  Android 15
