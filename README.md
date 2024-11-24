@@ -27,7 +27,7 @@
 ## Moto G9 Play (guamp)
 
  Android 14
-- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-guamp-v9.5-Unofficial)
+- [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-guamp-v9.6-Unofficial)
 
 
 ## Moto G9 Power (cebu)
