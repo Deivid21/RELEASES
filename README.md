@@ -32,11 +32,11 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guamp)
 
 
-## Moto G9 Power (cebu)
+## Moto G9 Power / Lenovo K12 Pro (cebu)
 
  Android 14
 - [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241123-cebu-v9.6-Unofficial)
-- [LineageOS 21](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241123-nightly-cebu-signed)
+- [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-cebu)
 
  Android 15
 - [LineageOS 22](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.0-20241102-UNOFFICIAL-cebu)
