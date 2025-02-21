@@ -24,10 +24,11 @@
 - [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241014-ocean-v9.5-Unofficial)
 
 
-## Moto G9 Play (guamp)
+## Moto G9 & G9 Play / Lenovo K12 Note (guamp)
 
  Android 14
 - [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-guamp-v9.6-Unofficial)
+- [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guamp)
 
 
 ## Moto G9 Power (cebu)
