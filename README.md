@@ -1,9 +1,10 @@
 # Deivid_21's Builds
 
-## Moto E7 Plus (guam)
+## Moto E7 Plus / Lenovo K12 (guam)
 
  Android 14
 - [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-guam-v9.6-Unofficial)
+- [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guam)
 
 
 ## Moto G7 (river)
