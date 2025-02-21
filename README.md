@@ -54,10 +54,11 @@
 - [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-kiev-v9.6-Unofficial)
 
 
-## Moto G30 (caprip)
+## Moto G30 / Lenovo K13 Pro (caprip)
 
  Android 14
 - [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-caprip-v9.6-Unofficial)
+- [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-caprip)
 
 
 ## Motorola Edge 30 (dubai)
