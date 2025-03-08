@@ -56,6 +56,12 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250221-UNOFFICIAL-kiev)
 
 
+## Moto G10 & G10 Power / Lenovo K13 Note (capri)
+
+ Android 14
+- [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250308-UNOFFICIAL-capri)
+
+
 ## Moto G30 / Lenovo K13 Pro (caprip)
 
  Android 14
