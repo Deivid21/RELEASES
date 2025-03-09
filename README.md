@@ -11,6 +11,7 @@
 
  Android 14
 - [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241014-river-v9.5-Unofficial)
+- [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250309-UNOFFICIAL-river)
 
 
 ## Moto G7 Play (channel)
