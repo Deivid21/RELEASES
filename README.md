@@ -10,7 +10,7 @@
 ## Moto G7 (river)
 
  Android 14
-- [Evolution X v9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241014-river-v9.5-Unofficial)
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250317-river-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250309-UNOFFICIAL-river)
 
 
