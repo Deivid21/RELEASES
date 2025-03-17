@@ -38,7 +38,7 @@
 ## Moto G9 Power / Lenovo K12 Pro (cebu)
 
  Android 14
-- [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241123-cebu-v9.6-Unofficial)
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250316-cebu-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-cebu)
 
  Android 15
