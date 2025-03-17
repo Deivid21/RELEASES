@@ -31,7 +31,7 @@
 ## Moto G9 & G9 Play / Lenovo K12 Note (guamp)
 
  Android 14
-- [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-guamp-v9.6-Unofficial)
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250316-guamp-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guamp)
 
 
