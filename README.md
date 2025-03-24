@@ -55,6 +55,7 @@
 ## Moto G 5G Plus / Motorola One 5G (nairo)
 
  Android 14
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250323-nairo-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250310-UNOFFICIAL-nairo)
 
 
