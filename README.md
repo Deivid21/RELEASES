@@ -86,6 +86,12 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-caprip)
 
 
+## Moto Z3 Play (beckham)
+
+ Android 14
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250325-beckham-v9.9.2-Unofficial)
+
+
 ## Motorola Edge 30 (dubai)
 
  Android 14
