@@ -7,6 +7,12 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guam)
 
 
+## Moto G6 Plus (evert)
+
+ Android 14
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250325-evert-v9.9.2-Unofficial)
+
+
 ## Moto G7 (river)
 
  Android 14
