@@ -83,7 +83,7 @@
 ## Motorola Edge 30 (dubai)
 
  Android 14
-- [Evolution X v9.6](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241124-dubai-v9.6-Unofficial)
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250323-dubai-v9.9.2-Unofficial)
 
 
 ## Motorola One Fusion (astro)
