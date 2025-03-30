@@ -111,6 +111,9 @@
  Android 14
 - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250325-beckham-v9.9.2-Unofficial)
 
+ Android 15
+- [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-beckham-10.4-Unofficial)
+
 
 ## Motorola Edge 30 (dubai)
 
