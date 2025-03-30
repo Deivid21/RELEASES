@@ -35,6 +35,8 @@
 - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250317-channel-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250309-UNOFFICIAL-channel)
 
+ Android 15
+ - [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-channel-10.4-Unofficial)
 
 ## Moto G7 Power (ocean)
 
