@@ -13,7 +13,7 @@
 - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250325-evert-v9.9.2-Unofficial)
 
  Android 15
- - [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-evert-10.4-Unofficial)
+- [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-evert-10.4-Unofficial)
 
 
 ## Moto G7 (river)
@@ -23,7 +23,7 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250309-UNOFFICIAL-river)
 
  Android 15
- - [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250329-river-10.4-Unofficial)
+- [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250329-river-10.4-Unofficial)
 
 
 ## Moto G7 Plus (lake)
@@ -42,7 +42,7 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250309-UNOFFICIAL-channel)
 
  Android 15
- - [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-channel-10.4-Unofficial)
+- [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-channel-10.4-Unofficial)
 
 ## Moto G7 Power (ocean)
 
@@ -95,8 +95,11 @@
 ## Moto G10 & G10 Power / Lenovo K13 Note (capri)
 
  Android 14
- - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250316-capri-v9.9.2-Unofficial)
+- [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250316-capri-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250308-UNOFFICIAL-capri)
+
+ Android 15
+- [LineageOS 22.2](https://wiki.lineageos.org/devices/capri/)
 
 
 ## Moto G30 / Lenovo K13 Pro (caprip)
