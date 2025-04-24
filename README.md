@@ -68,7 +68,7 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-cebu)
 
  Android 15
-- [LineageOS 22](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.0-20241102-UNOFFICIAL-cebu)
+- [LineageOS 22.2](https://wiki.lineageos.org/devices/cebu/)
 
 
 ## Moto G Power 2021 (borneo)
