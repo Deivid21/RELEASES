@@ -99,6 +99,7 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250308-UNOFFICIAL-capri)
 
  Android 15
+- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-capri-20250425-1437-GAPPS-UNOFFICIAL)
 - [LineageOS 22.2](https://wiki.lineageos.org/devices/capri/)
 
 
