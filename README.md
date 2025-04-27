@@ -69,6 +69,7 @@
 
  Android 15
 - [LineageOS 22.2](https://wiki.lineageos.org/devices/cebu/)
+- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-cebu-20250425-1552-GAPPS-UNOFFICIAL)
 
 
 ## Moto G Power 2021 (borneo)
