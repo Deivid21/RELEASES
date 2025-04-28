@@ -117,6 +117,12 @@
 - [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-caprip-20250427-0940-GAPPS-UNOFFICIAL)
 
 
+## Moto G42 (hawao)
+
+ Android 15
+- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-hawao-20250427-1012-GAPPS-UNOFFICIAL)
+
+
 ## Moto Z3 Play (beckham)
 
  Android 14
