@@ -113,6 +113,9 @@
 - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250316-caprip-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-caprip)
 
+ Android 15
+- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-caprip-20250427-0940-GAPPS-UNOFFICIAL)
+
 
 ## Moto Z3 Play (beckham)
 
