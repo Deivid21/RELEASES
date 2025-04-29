@@ -85,6 +85,9 @@
 - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250317-borneo-v9.9.2-Unofficial)
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-borneo)
 
+ Android 15
+- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-borneo-20250427-1956-GAPPS-UNOFFICIAL)
+
 
 ## Moto G 5G Plus / Motorola One 5G (nairo)
 
