@@ -61,6 +61,7 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guamp)
 
  Android 15
+- [LineageOS 22.2](https://wiki.lineageos.org/devices/guamp/)
 - [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guamp-20250425-0738-GAPPS-UNOFFICIAL)
 
 
