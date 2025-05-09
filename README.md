@@ -139,6 +139,12 @@
 - [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250330-beckham-10.4-Unofficial)
 
 
+## Motorola Defy 2021 (bathena)
+
+Android 15
+- [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20250509-UNOFFICIAL-bathena)
+
+
 ## Motorola Edge 30 (dubai)
 
  Android 14
