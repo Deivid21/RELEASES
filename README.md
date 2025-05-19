@@ -26,7 +26,7 @@
 - [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250309-UNOFFICIAL-river)
 
  Android 15
-- [Evolution X v10.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-15.0-20250329-river-10.4-Unofficial)
+- [Evolution X v10.6](https://evolution-x.org/devices/river)
 
 
 ## Moto G7 Plus (lake)
