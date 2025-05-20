@@ -157,6 +157,12 @@ Android 15
 - [Evolution X v10.6](https://evolution-x.org/devices/kane)
 
 
+## Motorola One Action (troika)
+
+ Android 15
+- [Evolution X v10.6](https://evolution-x.org/devices/troika)
+
+
 ## Motorola One Fusion (astro)
 
 - [TeamWin Recovery Project 3.7.0_11-0](https://github.com/Deivid21/RELEASES/releases/tag/twrp-3.7.0_11-0-astro)
