@@ -151,6 +151,12 @@ Android 15
 - [Evolution X v9.9.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20250323-dubai-v9.9.2-Unofficial)
 
 
+## Motorola One Vision (kane)
+
+ Android 15
+- [Evolution X v10.6](https://evolution-x.org/devices/kane)
+
+
 ## Motorola One Fusion (astro)
 
 - [TeamWin Recovery Project 3.7.0_11-0](https://github.com/Deivid21/RELEASES/releases/tag/twrp-3.7.0_11-0-astro)
