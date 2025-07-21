@@ -8,7 +8,9 @@
 
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/guam)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guam-20250427-1926-GAPPS-UNOFFICIAL)
+- [LineageOS 22.2](https://wiki.lineageos.org/devices/guam/)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guam-20250427-1926-GAPPS-UNOFFICIAL)
 
 
 ## Moto G6 Plus (evert)
@@ -67,7 +69,8 @@
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/guamp)
 - [LineageOS 22.2](https://wiki.lineageos.org/devices/guamp/)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guamp-20250425-0738-GAPPS-UNOFFICIAL)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guamp-20250425-0738-GAPPS-UNOFFICIAL)
 
 
 ## Moto G9 Power / Lenovo K12 Pro (cebu)
@@ -79,7 +82,8 @@
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/cebu)
 - [LineageOS 22.2](https://wiki.lineageos.org/devices/cebu/)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-cebu-20250425-1552-GAPPS-UNOFFICIAL)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-cebu-20250425-1552-GAPPS-UNOFFICIAL)
 
 
 ## Moto G Power 2021 (borneo)
@@ -90,7 +94,8 @@
 
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/borneo)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-borneo-20250427-1956-GAPPS-UNOFFICIAL)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-borneo-20250427-1956-GAPPS-UNOFFICIAL)
 
 
 ## Moto G 5G Plus / Motorola One 5G (nairo)
@@ -115,8 +120,9 @@
 
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/capri)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-capri-20250425-1437-GAPPS-UNOFFICIAL)
 - [LineageOS 22.2](https://wiki.lineageos.org/devices/capri/)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-capri-20250425-1437-GAPPS-UNOFFICIAL)
 
 
 ## Moto G30 / Lenovo K13 Pro (caprip)
@@ -127,7 +133,8 @@
 
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/caprip)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-caprip-20250427-0940-GAPPS-UNOFFICIAL)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-caprip-20250427-0940-GAPPS-UNOFFICIAL)
 
 
 ## Moto G32 (devon)
@@ -140,7 +147,8 @@
 
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/hawao)
-- [Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-hawao-20250427-1012-GAPPS-UNOFFICIAL)
+
+- [EOL][Project Infinity X v2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-hawao-20250427-1012-GAPPS-UNOFFICIAL)
 
 
 ## Moto G52 (rhode)
@@ -168,7 +176,7 @@
 
 Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/bathena)
-- [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20250509-UNOFFICIAL-bathena)
+- [LineageOS 22.2](https://wiki.lineageos.org/devices/bathena/)
 
 
 ## Motorola Edge 30 (dubai)
@@ -180,7 +188,13 @@ Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/dubai)
 
 
-## Motorola One Vision (kane)
+## Motorola Edge 30 Fusion / Edge S30 Pro (tundra)
+
+ Android 15
+- [Evolution X v10.7](https://evolution-x.org/devices/tundra)
+
+
+## Motorola One Vision / P50 (kane)
 
  Android 15
 - [Evolution X v10.7](https://evolution-x.org/devices/kane)
