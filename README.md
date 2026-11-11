@@ -120,7 +120,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
-| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261106-UNOFFICIAL-guam) | Test Build | 2026/11/06 |
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261106-UNOFFICIAL-guam) | Test Build | 2026/11/08 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251009-nightly-guam-signed) | Last Nightly | 2025/10/09 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guam-20250427-1926-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/27 |
 | 14 | [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guam) | Unofficial | 2025/02/20 |
@@ -136,6 +136,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261106-UNOFFICIAL-guamp) | Test Build | 2026/11/08 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251006-nightly-guamp-signed) | Last Nightly | 2025/10/06 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-guamp-20250425-0738-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/25 |
 | 14 | [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20250220-UNOFFICIAL-guamp) | Unofficial | 2025/02/20 |
@@ -151,6 +152,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-cebu) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261010-nightly-cebu-signed) | Last Nightly | 2026/10/10 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251011-nightly-cebu-signed) | Last Nightly | 2025/10/11 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-cebu-20250425-1552-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/25 |
@@ -169,7 +171,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
-| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261104-UNOFFICIAL-guamna) | Test Build | 2026/11/04 |
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261106-UNOFFICIAL-guamna) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20260904-UNOFFICIAL-guamna) | Unofficial | 2026/09/04 |
 
 <a id="borneo"></a>
@@ -179,6 +181,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-borneo) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261010-nightly-borneo-signed) | Last Nightly | 2026/10/10 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251011-nightly-borneo-signed) | Last Nightly | 2025/10/11 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-borneo-20250427-1956-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/27 |
@@ -195,6 +198,8 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261111-UNOFFICIAL-capri) | Test Build | 2026/11/11 |
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-capri) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261008-nightly-capri-signed) | Last Nightly | 2026/10/08 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251009-nightly-capri-signed) | Last Nightly | 2025/10/09 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-capri-20250425-1437-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/25 |
@@ -208,6 +213,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-caprip) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261007-nightly-caprip-signed) | Last Nightly | 2026/10/07 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251008-nightly-caprip-signed) | Last Nightly | 2025/10/08 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-caprip-20250427-0940-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/27 |
@@ -218,6 +224,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 | 14 | [Evolution X 9.5](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20241013-caprip-v9.5-Unofficial) | Unofficial | 2024/10/13 |
 | 14 | [Evolution X 9.4](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240909-caprip-v9.4-Unofficial) | Unofficial | 2024/09/09 |
 | 14 | [Evolution X 9.3](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-14.0-20240812-caprip-v9.3-Unofficial) | Unofficial | 2024/08/12 |
+| 13 | [LineageOS 20.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-20.0-20230630-nightly-caprip-signed) | Last Nightly | 2023/06/30 |
 
 <a id="rhode"></a>
 ### Moto G52 (rhode)
@@ -226,6 +233,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-rhode) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261010-nightly-rhode-signed) | Last Nightly | 2026/10/10 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251011-nightly-rhode-signed) | Last Nightly | 2025/10/11 |
 | 14 | [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241228-nightly-rhode-signed) | Last Nightly | 2024/12/28 |
@@ -238,6 +246,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-hawao) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261006-nightly-hawao-signed) | Last Nightly | 2026/10/06 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251007-nightly-hawao-signed) | Last Nightly | 2025/10/07 |
 | 15 | [Infinity X 2.7](https://github.com/Deivid21/RELEASES/releases/tag/Project_Infinity-X-2.7-hawao-20250427-1012-GAPPS-UNOFFICIAL) | Unofficial · EOL | 2025/04/27 |
@@ -251,6 +260,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-devon) | Test Build | 2026/11/08 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261010-nightly-devon-signed) | Last Nightly | 2026/10/10 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251011-nightly-devon-signed) | Last Nightly | 2025/10/11 |
 | 14 | [LineageOS 21.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-21.0-20241228-nightly-devon-signed) | Last Nightly | 2024/12/28 |
@@ -263,6 +273,7 @@ Mirror of my builds for Motorola devices: LineageOS, Evolution X and more. Each 
 
 | Android | ROM | Type | Date |
 |:-:|---|---|:-:|
+| 17 | [LineageOS 24.0](https://github.com/Deivid21/RELEASES/releases/tag/lineage-24.0-20261108-UNOFFICIAL-bathena) | Test Build | 2026/11/08 |
 | 17 | [Evolution X 12.2](https://github.com/Deivid21/RELEASES/releases/tag/EvolutionX-17.0-20260912-bathena-12.2-Official) | Test Build | 2026/09/12 |
 | 16 | [LineageOS 23.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-23.2-20261009-nightly-bathena-signed) | Last Nightly | 2026/10/09 |
 | 15 | [LineageOS 22.2](https://github.com/Deivid21/RELEASES/releases/tag/lineage-22.2-20251010-nightly-bathena-signed) | Last Nightly | 2025/10/10 |
